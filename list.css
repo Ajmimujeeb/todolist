@@ -1,0 +1,27 @@
+ body {
+ background-image: url('image/todoo.jpg'); 
+ background-size: cover;
+ }
+
+
+.container {
+background-color: rgba(229, 119, 198, 0.8); 
+padding: 20px;
+ border-radius: 15px;
+ box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+width: 100%;
+max-width: 600px;
+margin-top: 100px;}
+
+h2 {
+    color: #2c3e50;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+.navbar-nav .nav-link.active {
+    font-weight: bold;
+}
+        
+.navbar-nav .nav-link {
+    color: black ;
+}  
